@@ -1,0 +1,2 @@
+# pol-tehnikum
+kodutööd programeerimises
